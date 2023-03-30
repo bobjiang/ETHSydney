@@ -1,4 +1,4 @@
-baseurl = "https://ethsydney.net"
+baseurl = "https://ethsydney.net/"
 DefaultContentLanguage = "en"
 title = "ETHSydney"
 theme = "beautifulhugo"
