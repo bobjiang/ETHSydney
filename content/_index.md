@@ -1,2 +1,5 @@
-## Front Page Content
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+
+This is the biggest Ethereum Event in the south earth.
+- Our website: https://ethsydney.net/
+- Email: hi@ethsydney.net
+- twitter: https://twitter.com/EthereumSydney
