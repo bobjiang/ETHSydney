@@ -14,8 +14,7 @@ RSVP - https://www.meetup.com/ethsydney/events/294314287/
 ## 🌟 Event Details 🌟
 Date: 28th June  
 Time: 6:00pm  
-Location: Haymarket HQ, Level 2, 63 Dixon Street, Haymarket NSW 2000  
-Hashtag: #ETHSydney  
+Location: Haymarket HQ, Level 2, 63 Dixon Street https://goo.gl/maps/DLcZMiGTs2R24M1k6
 
 ## 🎉 What Makes ETHSydney So Special? 🎉
 
