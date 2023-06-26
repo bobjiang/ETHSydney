@@ -49,3 +49,11 @@ For any inquiries or sponsorship opportunities, please reach out to our team at 
 - Telegram: https://t.me/EthereumSydney
 - Email: hi@ethsydney.net
 - Twitter: https://twitter.com/EthereumSydney
+
+## Who we are looking for
+
+- Hackathon volunteers (Late November 2023)
+- Volunteers for ETHSydney 2024 (tbd)
+- Sponsors for hackathon and ETHSydney
+
+If you're interested in the volunteers or sponsors, shoot email at hi@ethsydney.net
