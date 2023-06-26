@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Ethereum Sydney is coming"
+  subtitle = "Ethereum Sydney"
   mainSections = ["post","posts"]
   logo = "img/ethsydney_logo.jpeg" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -44,7 +44,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "ETH Sydney"
+  name = "ETHSydney"
   website = "ethsydney.net"
   email = "hi@ethsydney.net"
 #  facebook = "username"
@@ -65,7 +65,7 @@ pygmentsCodefencesGuessSyntax = true
 #  itchio = "username"
 #  vk = "username"
 #  paypal = "username"
-  telegram = "EthereumSydney"
+  telegram = "+4jSRKC0_m51lYjc9"
 #  500px = "username"
 #  codepen = "username"
 #  mastodon = "url"
