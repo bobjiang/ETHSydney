@@ -1,6 +1,6 @@
 ---
-title: [Summary] ETHSydney Meetup June 2023
-subtitle: Summary
+title: ETHSydney Meetup June 2023 Summary
+subtitle: a summary for June meetup
 date: 2023-06-28
 tags: ["Ethereum", "Sydney", "ETHSydney", "DEX", "smart contract", "Uniswap"]
 ---
