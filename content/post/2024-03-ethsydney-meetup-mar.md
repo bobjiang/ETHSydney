@@ -5,6 +5,10 @@ date: 2024-03-22
 tags: ["Ethereum", "Sydney", "ETHSydney", "Google", "local startup demo"]
 ---
 
+Meetup summary - https://twitter.com/EthereumSydney/status/1772473730238714131
+
+Meetup Info:
+
 Agenda 
 
 ​14:00 - 14:30 check in

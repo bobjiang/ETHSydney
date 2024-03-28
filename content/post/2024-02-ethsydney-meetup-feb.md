@@ -5,6 +5,10 @@ date: 2024-02-13
 tags: ["Ethereum", "Sydney", "ETHSydney", "Sigma Prime", "security"]
 ---
 
+Summary - https://twitter.com/EthereumSydney/status/1758318430045032805
+
+Meetup Info
+
 ​5:45/6pm: doors open
 
 ​6pm: 🍷🍺🥧
