@@ -1,19 +1,19 @@
 ---
-title: ETHSydney Partners/Supporters
+title: Partners/Supporters
 subtitle: 
 comments: false
 ---
 
-Thanks for our partners/supporters:
+Thanks for our partners/supporters (no order):
 
-- Sigma Prime, 
-- Bokky, 
-- Immutable, 
-- Smart Token Labs, 
-- Bitfwd Capital, 
-- Haymarket HQ, 
-- Google Web3, 
-- ScalingX, 
+- [Sigma Prime](https://sigmaprime.io/), 
+- [Bokky](https://www.meetup.com/BokkyPooBahs-Ethereum-Workshop/), 
+- [Immutable](https://www.immutable.com/), 
+- [Smart Token Labs](https://smarttokenlabs.com/), 
+- [Bitfwd Capital](https://www.bitfwd.com/), 
+- [Haymarket HQ](https://www.haymarkethq.com/), 
+- [Google Web3](https://cloud.google.com/web3), 
+- [ScalingX](https://www.scalingx.xyz/), 
 - and more...
 
 ETHSydney is focusing on Ethereum ecosystem, and learning about Ethereum technologies and usage.
