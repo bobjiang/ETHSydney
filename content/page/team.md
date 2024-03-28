@@ -1,5 +1,5 @@
 ---
-title: ETHSydney Co-Organizing Team
+title: Co-Org Team
 subtitle: 
 comments: false
 ---
@@ -7,8 +7,8 @@ comments: false
 Meet our team:
 
 - [Bob Jiang](https://twitter.com/bobjiang123)
-- [Daniel Bar]()
-- [Nick Addison]()
+- [Daniel Bar](https://twitter.com/danieltbar)
+- [Nick Addison](https://twitter.com/naddison)
 - [Luke Anderson]()
 
 ETHSydney is focusing on Ethereum ecosystem, and learning about Ethereum technologies and usage.
