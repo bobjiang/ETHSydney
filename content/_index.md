@@ -1,1 +1,1 @@
-ETHSydney is focusing on Ethereum ecosystem, and learning about Ethereum technologies and usage. Follow us -> https://twitter.com/ethereumsydney
+ETHSydney is focusing on Ethereum ecosystem, and learning about Ethereum technologies and usage. Follow us -> https://twitter.com/ethereumsydney . More links - https://linktr.ee/ETHSydney

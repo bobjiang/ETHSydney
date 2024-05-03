@@ -6,6 +6,8 @@ comments: false
 
 Thanks for our partners/supporters (no order):
 
+- [zkSync](https://zksync.io/)
+- [SubQuery](https://subquery.network/)
 - [Sigma Prime](https://sigmaprime.io/), 
 - [Bokky](https://www.meetup.com/BokkyPooBahs-Ethereum-Workshop/), 
 - [Immutable](https://www.immutable.com/), 
