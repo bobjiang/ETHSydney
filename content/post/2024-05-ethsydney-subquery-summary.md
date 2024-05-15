@@ -1,6 +1,6 @@
 ---
-title: SubQuery at ETHSydney: Empowering Web3 Builders
-subtitle: 
+title: SubQuery at ETHSydney - Empowering Web3 Builders
+subtitle: ETHSydney
 date: 2024-05-14
 tags: ["Ethereum", "Sydney", "ETHSydney", "SubQuery"]
 ---
