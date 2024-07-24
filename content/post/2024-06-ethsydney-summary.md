@@ -1,5 +1,5 @@
 ---
-title: #ETHSydney meetup June 2024
+title: ETHSydney meetup June 2024
 subtitle: ETHSydney
 date: 2024-06-18
 tags: ["Ethereum", "Sydney", "ETHSydney"]
