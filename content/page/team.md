@@ -14,9 +14,9 @@ Meet our team:
 
 Multi-sig Wallet address:
 
-- Optimism network: 0x73d579Dc8dD95adA6B7791e3f6048f77C0f88800
-- Base network:     0x1DBAAf95Df3583E3A5c6EFF7EB061Dba642e3305
-- zkSync Era:       0x1ef52fB7e2FE8a2c8ad34b444cc1236C091fB64B
+- Optimism network: [0x73d579Dc8dD95adA6B7791e3f6048f77C0f88800](https://app.safe.global/home?safe=oeth:0x73d579Dc8dD95adA6B7791e3f6048f77C0f88800)
+- Arbitrum network: [0xC52D2f85CF30E3152eE9088C889E29bc8403Af76](https://app.safe.global/home?safe=arb1:0xC52D2f85CF30E3152eE9088C889E29bc8403Af76)
+
 
 ETHSydney is focusing on Ethereum ecosystem, and learning about Ethereum technologies and usage.
 
