@@ -80,6 +80,16 @@ A huge thank you to every participant who joined us at ETHSydney 2024! Your ener
 
 # Make Ethereum Cypherpunk Again
 
+# Feedbacks and records
+
+![](/img/linkedin-feedback-tina-tao.png)
+![](/img/linkedin-feedback-ruiyi-zhao.png)
+
+Youtube live:
+
+Opening - https://www.youtube.com/live/v_ZXWndT0OU?si=SpsPRHssq_fSykgC&t=3000
+Closing and demos - https://www.youtube.com/live/rSAG9UO02t4?si=SVhXsoaeGbPfn7uI&t=351
+
 Summaries on X:
 
 - https://x.com/EthereumSydney/status/1850671355894939870
