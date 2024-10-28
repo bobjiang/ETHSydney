@@ -10,7 +10,7 @@ Meet our team:
 - [Daniel Bar](https://twitter.com/danieltbar)
 - [Nick Addison](https://twitter.com/naddison)
 - [Thomas Aslanian](https://twitter.com/thomaslanian)
-- [Joseph]()
+- [Joseph](https://x.com/jqhils)
 
 Multi-sig Wallet address:
 
