@@ -78,6 +78,19 @@ A huge thank you to every participant who joined us at ETHSydney 2024! Your ener
 
 # Make Ethereum Cypherpunk Again
 
+Summaries on X:
+
+- https://x.com/EthereumSydney/status/1850671355894939870
+- https://x.com/madamczyk0/status/1850493467325288616
+- https://x.com/semicondurian/status/1850377479451705681
+- https://x.com/semicondurian/status/1849721635806269837
+- https://x.com/madamczyk0/status/1850156731784946133
+- https://x.com/EthereumSydney/status/1849977650703630529
+- https://x.com/EthereumSydney/status/1850302715135758616
+- https://x.com/EthereumSydney/status/1849727073730035790
+- https://x.com/EthereumSydney/status/1849295481932841072
+- https://x.com/EthereumSydney/status/1843972544778698758
+
 # Abount ETHSydney
 
 - Website: https://ethsydney.net/
