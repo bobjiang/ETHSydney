@@ -85,12 +85,12 @@ A huge thank you to every participant who joined us at ETHSydney 2024! Your ener
 ![](/img/linkedin-feedback-tina-tao.png)
 ![](/img/linkedin-feedback-ruiyi-zhao.png)
 
-Youtube live:
+## Youtube live playback
 
-Opening - https://www.youtube.com/live/v_ZXWndT0OU?si=SpsPRHssq_fSykgC&t=3000
-Closing and demos - https://www.youtube.com/live/rSAG9UO02t4?si=SVhXsoaeGbPfn7uI&t=351
+- Opening - https://www.youtube.com/live/v_ZXWndT0OU?si=SpsPRHssq_fSykgC&t=3000
+- Closing and demos - https://www.youtube.com/live/rSAG9UO02t4?si=SVhXsoaeGbPfn7uI&t=351
 
-Summaries on X:
+## Summaries on X
 
 - https://x.com/EthereumSydney/status/1850671355894939870
 - https://x.com/madamczyk0/status/1850493467325288616
