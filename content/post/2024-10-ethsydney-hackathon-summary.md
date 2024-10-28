@@ -48,6 +48,8 @@ A massive shoutout to our sponsors, without whom ETHSydney 2024 would not have b
 
 [Thank you sponsors](https://2024.ethsydney.net/#sponsors)
 
+![](/img/all-sponsors.png)
+
 We also want to extend our gratitude to our amazing community supporters who kept the energy high and the vibes awesome throughout the event. Thank you for being the backbone of this community!
 
 🙌 Cheers to Our Mentors
