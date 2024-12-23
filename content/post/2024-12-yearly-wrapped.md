@@ -1,6 +1,6 @@
 ---
-title: 🎉 ETHSydney 2024: The Ultimate Wrap-Up! 🎉
-subtitle: wrapped of 2024 
+title: 🎉 ETHSydney 2024 - The Ultimate Wrap-Up! 🎉
+subtitle: Wrapped
 date: 2024-12-22
 tags: ["Ethereum", "Sydney", "ETHSydney"]
 ---
