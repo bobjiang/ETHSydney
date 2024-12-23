@@ -7,7 +7,7 @@ tags: ["Ethereum", "Sydney", "ETHSydney"]
 
 🎉 ETHSydney 2024: The Ultimate Wrap-Up! 🎉
 
-![](./img/2024-wrapped/1.png)
+![](/img/2024-wrapped/1.png)
 
 🌐 Building, Learning, and Connecting Down Under!
 
