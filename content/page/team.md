@@ -7,10 +7,12 @@ comments: false
 Meet our team:
 
 - [Bob Jiang](https://twitter.com/bobjiang123)
-- [Daniel Bar](https://twitter.com/danieltbar)
+- [Daniel Exponent](https://x.com/semicondurian)
 - [Nick Addison](https://twitter.com/naddison)
 - [Thomas Aslanian](https://twitter.com/thomaslanian)
 - [Joseph](https://x.com/jqhils)
+- [Marta Adamczyk](https://x.com/madamczyk0)
+- [Sunil Tom Jose](https://x.com/SunilTomJose)
 
 Multi-sig Wallet address:
 
